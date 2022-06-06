@@ -1,0 +1,20 @@
+*.docx
+*.pdf
+*.zip
+assn2/*
+GUI Receipt.png
+.vs/
+.vscode/
+CMakeFiles/
+*.vcxproj*
+*.cmake
+CMakeCache.txt
+*.sln
+othello
+Debug/
+Othello.dir/
+x64/
+astar*.txt
+bfs*.txt
+dfs*.txt
+iddfs*.txt
